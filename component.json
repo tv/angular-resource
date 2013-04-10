@@ -1,8 +1,8 @@
 {
   "name": "angular-resource",
-  "version": "1.1.3-2",
+  "version": "1.1.4",
   "main": "./angular-resource.js",
   "dependencies": {
-    "angular": "git://github.com/tv/bower-angular.git#~1.1.3"
+    "angular": "git://github.com/tv/angular.git#~1.1.4"
   }
 }
